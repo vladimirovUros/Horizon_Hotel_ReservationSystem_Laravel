@@ -1,0 +1,16 @@
+.gradient-custom {
+    background: -webkit-linear-gradient(to right, rgb(16, 44, 61), rgb(28, 195, 178));
+    background: linear-gradient(to right, rgb(16, 44, 61), rgb(28, 195, 178))
+}
+
+.card-body{
+    background-color: #1C3D4DFF;
+}
+.text-uppercase{
+    color: #F3F3F3;
+    font-weight: bold;
+}
+.reg{
+    color: red;
+    font-weight: bolder;
+}
